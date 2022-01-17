@@ -19,6 +19,8 @@ String nam[]= { "r","t","y"};
 		System.out.println(nam[2]);
         	
      	System.out.println(word[0] + "  "  + word[1]);
+     	
+     	System.out.println(word[0] + "  "  + word[1]);
         }
 	}
 
